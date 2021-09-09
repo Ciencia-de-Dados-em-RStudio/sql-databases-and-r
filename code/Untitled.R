@@ -157,7 +157,22 @@ surveys %>%
 # 10 RM         M          4
 # … with more rows
 
+#Executing this command will return a table with 10 rows and the requested species_id, sex and weight columns. 
+#Great!
+#… but wait, why are there only 10 rows?
+#  The last line:
+#       ... with more rows
+#indicates that there are more results that fit our filtering criterion. 
+#Why was R lazy and only retrieved 10 of them?
 
+
+
+
+
+
+
+ 
+  
 
 
 
